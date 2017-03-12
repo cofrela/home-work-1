@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Degrees</title>
+    <script>
+        var degreeCelsius = 35;
+        var degreeFahrenheit = (9/5)*degreeCelsius +32;
+        alert(degreeFahrenheit);
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
